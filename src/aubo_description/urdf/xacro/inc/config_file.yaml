@@ -1,0 +1,14 @@
+
+initial_positions:
+  finger_left_link: 0.0
+  finger_right_link: 0.0
+
+lower_limits:
+  finger_left_link: -0.02
+  finger_right_link: 0.0
+
+upper_limits:
+  finger_left_link: 0.0
+  finger_right_link: 0.02
+
+
